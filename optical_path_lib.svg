@@ -18,7 +18,10 @@
    version="1.1"
    viewBox="0 0 140.78784 50.603161"
    height="50.603161mm"
-   width="140.78784mm">
+   width="140.78784mm"
+   inkscape:export-filename="/home/thiele/git_repos/minicoli/optical_path_lib.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
   <defs
      id="defs2">
     <linearGradient
@@ -1190,7 +1193,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="430.08728"
+     inkscape:cx="429.08728"
      inkscape:cy="62.413723"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"

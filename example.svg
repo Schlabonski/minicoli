@@ -9,13 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="82.209091mm"
-   height="64.375015mm"
-   viewBox="0 0 82.209089 64.375015"
+   width="18.220909cm"
+   height="6.4375014cm"
+   viewBox="0 0 182.20909 64.375015"
    version="1.1"
    id="svg836"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="example.svg">
+   sodipodi:docname="example.svg"
+   inkscape:export-filename="/home/thiele/git_repos/minicoli/example.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
   <defs
      id="defs830" />
   <sodipodi:namedview
@@ -26,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5304854"
-     inkscape:cx="143.18573"
-     inkscape:cy="33.649937"
+     inkscape:cx="332.16211"
+     inkscape:cy="33.649956"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -38,9 +41,10 @@
      inkscape:window-maximized="0"
      inkscape:snap-global="false"
      fit-margin-top="0"
-     fit-margin-left="0"
+     fit-margin-left="5"
      fit-margin-bottom="0"
-     fit-margin-right="0" />
+     fit-margin-right="5"
+     units="cm" />
   <metadata
      id="metadata833">
     <rdf:RDF>
@@ -57,7 +61,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-83.800973,-58.736432)">
+     transform="translate(-33.800973,-58.736432)">
     <path
        id="path817"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
