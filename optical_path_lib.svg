@@ -23,6 +23,25 @@
    xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/">
   <defs
      id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="2.3239999"
+       markerHeight="2.6867051"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient7580">
@@ -1191,11 +1210,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="462.4375"
-     inkscape:cy="205.3125"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="267.10959"
+     inkscape:cy="273.11999"
      inkscape:document-units="mm"
-     inkscape:current-layer="g2417"
+     inkscape:current-layer="g2966"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="false"
@@ -1781,6 +1800,30 @@
                cy="150.63174"
                r="0.086892061"
                transform="scale(-1,1)" />
+            <g
+               id="g4020"
+               transform="translate(0,2.5022736)">
+              <g
+                 id="g3936"
+                 transform="translate(1.9649674,-3.4745316)">
+                <path
+                   style="fill:#ffd42a;fill-opacity:0;stroke:#000000;stroke-width:0.265;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#TriangleStart)"
+                   d="m 56.089574,151.56545 h -0.591061 c -1.492984,0 -2.086758,0.41362 -2.471952,1.20815"
+                   id="path1695-5-3"
+                   sodipodi:nodetypes="ccc" />
+                <path
+                   style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none"
+                   d="M 56.089574,151.56545 H 51.921485"
+                   id="path3658"
+                   sodipodi:nodetypes="cc" />
+              </g>
+              <circle
+                 style="vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.377953;stroke-opacity:1;paint-order:markers fill stroke"
+                 id="path7221-3-3-8-4-6-7-5"
+                 cx="55.970497"
+                 cy="148.09282"
+                 r="2.9979999" />
+            </g>
           </g>
         </g>
       </g>
